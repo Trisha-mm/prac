@@ -1,0 +1,37 @@
+{
+  "chatBot": {
+    "stateOne": [
+      {
+        "text": "Hello"
+      },
+      {
+        "text": "Welcome to my chat bot !"
+      }
+    ],
+    "stateTwo": [
+      {
+        "text": "thank's"
+      },
+      {
+        "text": "i love it"
+      },
+      {
+        "text": "it's cool"
+      }
+    ],
+    "stateThree": [
+      {
+        "text": "it is not that hard"
+      },
+      {
+        "text": "to use react and expo"
+      },
+      {
+        "text": "to build"
+      },
+      {
+        "text": "a funny talks"
+      }
+    ]
+  }
+}
